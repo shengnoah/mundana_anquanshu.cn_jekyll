@@ -3,7 +3,7 @@ name: '安全书'
 description: '糖果的实验室--经典的计算机网络安全图书推荐'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: http://anquanshu.cn
+url: https://anquanshu.cn
 #baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
