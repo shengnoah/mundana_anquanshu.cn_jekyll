@@ -4,6 +4,7 @@ title:  "如何用ChatGPT生成Lua单元测试程序"
 author: 糖果
 categories: [ ChatGPT ]
 image: assets/images/home.jpg
+tags: featured
 ---
 
 
