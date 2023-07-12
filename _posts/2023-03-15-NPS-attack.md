@@ -6,7 +6,7 @@ author: 糖果
 tags: [sec]
 summary: 记一次NPS攻击分析
 tags: sticky
-image: assets/images/demo1.jpg
+image: assets/images/18.png
 ---
 
 这些年，接触了也少了安全工程师， 渗透工程师，在互联网企业中，Web安全相关的业务比较多其他还有App移动安全领域，Web用的几乎是都多，因为企业主要的业务应用场景在Web服务上，所以安全工程师，对Web相关的技术、工具、测试实践应用的都很好，无论漏洞复现， 还是POC等。
